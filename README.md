@@ -32,4 +32,13 @@ The below table decribes the famous locations in cities that have to be visited
 |    Newyork       | Statue of liberty                        |    3 hours
 |   Chicago        | Field museum                             |    8 hours
 
+## Qotes Section
+
+> 1. If four things are followed - having a great aim, acquiring knowledge, hard work, and perseverance - then anything can be achieved.
+Author: "A. P. J. Abdul Kalam"
+>2. “Nothing is permanent in this wicked world, not even our troubles.”
+Author: "Charlie Chaplin"
+
+******
+
 
