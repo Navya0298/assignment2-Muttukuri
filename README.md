@@ -20,3 +20,16 @@ And their are lot of **Arms and Armor and drawings and prints and musical instru
 * Arts of Africa, Oceania, and the Americas 
 * Asian art of Bronze
 * Chola Statue,Egyptian art 
+
+## creating table that contains cities which are recommended to visit
+
+The below table decribes the famous locations in cities that have to be visited
+
+| Name of the city | Loaction to visit in city                | Amount of time to spent in location |
+|------------------| -----------------------------------------|-------------------------------------|
+|    Texas         | Big bend national park                   |    11hours
+|    Dallas        |  The Sixth Floor Museum at Dealey Plaza  |    10hours
+|    Newyork       | Statue of liberty                        |    3 hours
+|   Chicago        | Field museum                             |    8 hours
+
+
