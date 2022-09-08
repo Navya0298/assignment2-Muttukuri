@@ -41,4 +41,31 @@ Author: "Charlie Chaplin"
 
 ******
 
+## code Fencing
+
+> How to load image list from REST API using angularJS
+
+follow the link: <https://stackoverflow.com/questions/18588204/how-to-load-image-list-from-rest-api-using-angularjs>
+
+```
+
+function($http) {
+                var restUrl = 'getImage/abc';
+
+                return {
+
+    fetchImage: function(imageId) {
+                        var self = this;
+                        return  $http.get(restUrl + '/' + imageId).
+                            success(function(data) {
+                                return self.imageUrl = data;
+                            }).
+                            error(function(data) {
+                                return self.imageUrl = "pathToDefaultImage";
+                            });
+                    },
+```
+
+link to snippet: <https://css-tricks.com/snippets/jquery/better-broken-image-handling/>
+
 
